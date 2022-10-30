@@ -5,7 +5,7 @@
 ~~~
 <link
     rel="stylesheet"
-    href="http://github.com/moton-03/PowerCSS/blob/main/src/style.css"
+    href="https://raw.githubusercontent.com/moton-03/PowerCSS/main/src/style.css"
 />
 ~~~
 2. Complete!
