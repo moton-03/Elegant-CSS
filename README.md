@@ -1,4 +1,4 @@
-# PowerCSS
-- [Wiki](https://github.com/moton-03/PowerCSS/wiki)
-- [Repository](https://github.com/moton-03/PowerCSS)
-- [Page](https://moton-03.github.io/PowerCSS)
+# Elegant-CSS
+- [Wiki](https://github.com/moton-03/Elegant-CSS/wiki)
+- [Repository](https://github.com/moton-03/Elegant-CSS)
+- [Page](https://moton-03.github.io/Elegant-CSS)
