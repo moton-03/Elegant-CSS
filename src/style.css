@@ -58,6 +58,12 @@ menu>*:hover>*>*,
     display: unset;
 }
 
+menu,
+.menu {
+        display: flex;
+        list-style: none;
+}
+
 .button,
 button {
     background-color: rgb(21, 68, 139);
